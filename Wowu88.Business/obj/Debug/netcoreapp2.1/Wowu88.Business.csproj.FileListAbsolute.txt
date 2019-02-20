@@ -1,0 +1,9 @@
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\bin\Debug\netcoreapp2.1\Wowu88.Business.deps.json
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\bin\Debug\netcoreapp2.1\Wowu88.Business.dll
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.1\Wowu88.Business.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.1\Wowu88.Business.AssemblyInfoInputs.cache
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.1\Wowu88.Business.AssemblyInfo.cs
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\bin\Debug\netcoreapp2.1\Wowu88.Business.pdb
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.1\Wowu88.Business.dll
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.1\Wowu88.Business.pdb
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.1\Wowu88.Business.csprojAssemblyReference.cache

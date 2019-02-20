@@ -1,0 +1,14 @@
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\bin\Debug\netcoreapp2.0\Wowu88 Mobile.deps.json
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\bin\Debug\netcoreapp2.0\Wowu88 Mobile.runtimeconfig.json
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\bin\Debug\netcoreapp2.0\Wowu88 Mobile.runtimeconfig.dev.json
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\bin\Debug\netcoreapp2.0\Wowu88 Mobile.dll
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\bin\Debug\netcoreapp2.0\Wowu88 Mobile.pdb
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\obj\Debug\netcoreapp2.0\Wowu88 Mobile.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\obj\Debug\netcoreapp2.0\Wowu88 Mobile.AssemblyInfoInputs.cache
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\obj\Debug\netcoreapp2.0\Wowu88 Mobile.AssemblyInfo.cs
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\obj\Debug\netcoreapp2.0\Wowu88 Mobile.dll
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\obj\Debug\netcoreapp2.0\Wowu88 Mobile.pdb
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\obj\Debug\netcoreapp2.0\Wowu88 Mobile.csprojAssemblyReference.cache
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\bin\Debug\netcoreapp2.0\Wowu88.Business.dll
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\bin\Debug\netcoreapp2.0\Wowu88.Business.pdb
+C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88 Mobile\obj\Debug\netcoreapp2.0\Wowu88 Mobile.csproj.CopyComplete
