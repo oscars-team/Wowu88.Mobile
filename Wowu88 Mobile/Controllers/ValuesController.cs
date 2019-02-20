@@ -14,8 +14,8 @@ namespace Wowu88_Mobile.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            var repo = new InvoiceRepository();
-            repo.Get();
+            var service = new PropertyRepository();
+            var properties = service.GetProperties();
             return new string[] { "value1", "value2" };
         }
 
