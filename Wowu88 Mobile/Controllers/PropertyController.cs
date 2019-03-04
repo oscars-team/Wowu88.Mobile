@@ -3,20 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.Extensions.Caching.Redis;
+using Wowu88.Business;
+using Wowu88.Business.Cache;
+using Wowu88.Business.Entity;
 using Wowu88.Business.Repositoies;
 
 namespace Wowu88_Mobile.Controllers
 {
     [Route("api/[controller]")]
-    public class ValuesController : Controller
+    public class PropertyController : Controller
     {
+        private CacheByRedis redis = new CacheByRedis();
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<Property> Get()
         {
             var service = new PropertyRepository();
-            var properties = service.GetProperties();
-            return new string[] { "value1", "value2" };
+            var property = redis.Read<IEnumerable<Property>>("property", 0);
+            if (property.Count()==0)
+            {
+                return service.GetProperties();
+            }
+            return property;
         }
 
         // GET api/values/5
@@ -30,6 +40,7 @@ namespace Wowu88_Mobile.Controllers
         [HttpPost]
         public void Post([FromBody]string value)
         {
+
         }
 
         // PUT api/values/5

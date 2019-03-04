@@ -7,3 +7,11 @@ C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\
 C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\Wowu88.Business.AssemblyInfo.cs
 C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\Wowu88.Business.dll
 C:\Users\Leo\Source\Repos\Wowu88 Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\Wowu88.Business.pdb
+E:\Wowu88.Mobile\Wowu88.Business\bin\Debug\netcoreapp2.0\Wowu88.Business.deps.json
+E:\Wowu88.Mobile\Wowu88.Business\bin\Debug\netcoreapp2.0\Wowu88.Business.dll
+E:\Wowu88.Mobile\Wowu88.Business\bin\Debug\netcoreapp2.0\Wowu88.Business.pdb
+E:\Wowu88.Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\Wowu88.Business.csproj.CoreCompileInputs.cache
+E:\Wowu88.Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\Wowu88.Business.AssemblyInfoInputs.cache
+E:\Wowu88.Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\Wowu88.Business.AssemblyInfo.cs
+E:\Wowu88.Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\Wowu88.Business.dll
+E:\Wowu88.Mobile\Wowu88.Business\obj\Debug\netcoreapp2.0\Wowu88.Business.pdb
